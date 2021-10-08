@@ -1,0 +1,14 @@
+
+h1
+{
+	color: rgb(4, 0, 255); 
+	font-size: 40px;
+}
+.body_backgorund {background-image: url(111.jpg);
+background-position: center;
+background-size: cover;
+}
+
+#can{
+background-color:grey;
+}
